@@ -1,6 +1,6 @@
 # Personalized README Completions for DLane
 
-Based on your LinkedIn profile: Principal System Architect @ Elekta | Medical imaging | Radiation treatment planning & delivery | Visualization | Open software advocate
+Based on your LinkedIn profile: Principal System Architect @ Elekta | PyMedPhys contributor | Medical imaging | Radiation treatment planning & delivery | Visualization | Open software advocate
 
 ---
 
@@ -13,7 +13,7 @@ Based on your LinkedIn profile: Principal System Architect @ Elekta | Medical im
 
 **Principal System Architect @ Elekta**
 
-- 🔭 I'm currently working on **radiation treatment planning and delivery systems** – building software that helps oncologists save lives every day
+- 🔭 I'm currently working on **radiation treatment planning and delivery systems at Elekta** and **contributing to PyMedPhys** – building software that helps oncologists save lives every day
 - 🌱 I'm currently learning **advanced visualization techniques, cloud-native medical imaging workflows, and modern approaches to safety-critical software development**
 - 👯 I'm looking to collaborate on **open-source medical imaging projects, radiation therapy tools, and initiatives that make healthcare technology more accessible**
 - 🤔 I'm looking for help with **exploring new paradigms in medical data visualization** and **contributing to open standards in healthcare software**
@@ -31,7 +31,7 @@ Based on your LinkedIn profile: Principal System Architect @ Elekta | Medical im
 
 **Principal System Architect @ Elekta | Medical Imaging & Radiation Therapy Systems**
 
-- 🔭 Currently architecting **radiation treatment planning and delivery systems at Elekta** – where precision software meets life-saving medical technology
+- 🔭 Currently architecting **radiation treatment planning and delivery systems at Elekta** and contributing to **PyMedPhys** – where precision software meets life-saving medical technology
 - 🌱 Deepening expertise in **advanced medical visualization, 3D rendering pipelines, treatment planning algorithms, and safety-critical system design**
 - 👯 Open to collaborating on **open-source medical imaging tools, DICOM standards, radiation therapy software, and healthcare data visualization projects**
 - 🤔 Seeking insights on **next-generation medical imaging architectures** and **building open ecosystems in healthcare tech**
@@ -56,7 +56,7 @@ Based on your LinkedIn profile: Principal System Architect @ Elekta | Medical im
 
 I'm a Principal System Architect at Elekta with extensive experience in medical imaging, radiation treatment planning and delivery, and visualization. I architect systems that help oncologists deliver precise, life-saving radiation therapy to cancer patients.
 
-- 🔭 **Current mission**: Architecting next-generation radiation treatment planning and delivery systems that combine cutting-edge visualization with clinical precision
+- 🔭 **Current mission**: Architecting next-generation radiation treatment planning and delivery systems at Elekta that combine cutting-edge visualization with clinical precision, while contributing to **PyMedPhys** – an open-source medical physics platform
 - 🌱 **Always learning**: Advanced medical imaging techniques, real-time 3D rendering, treatment optimization algorithms, and the evolving landscape of open healthcare software
 - 👯 **Collaboration interests**: Open-source medical imaging projects, DICOM and FHIR standards, radiation therapy tools, and any initiative that makes healthcare technology more transparent and accessible
 - 💬 **Ask me about**:
@@ -84,7 +84,7 @@ My code helps oncologists plan and deliver radiation therapy with millimeter pre
 **Principal System Architect @ Elekta**
 *Medical Imaging • Radiation Treatment Planning & Delivery • Visualization*
 
-- 🔭 Architecting: **Radiation therapy systems that deliver precise, life-saving treatment**
+- 🔭 Architecting: **Radiation therapy systems at Elekta** + contributing to **PyMedPhys open-source project**
 - 🌱 Expertise in: **Medical imaging, treatment planning algorithms, 3D visualization, DICOM, safety-critical software**
 - 👯 Open to: **Collaborations in open-source medical imaging, radiation therapy tools, healthcare visualization**
 - 💬 Specialties: **Medical imaging pipelines • Radiation treatment planning • Healthcare data visualization • Open software advocacy**
@@ -109,6 +109,7 @@ I'm DLane, **Principal System Architect at Elekta**, specializing in radiation o
 
 ### What I Do
 - 🔭 Architect **radiation treatment planning and delivery systems at Elekta**
+- 🌐 Contribute to **[PyMedPhys](https://github.com/pymedphys/pymedphys)** – open-source medical physics tools
 - 🏥 Work with **medical imaging, dose calculation, and 3D visualization** for cancer treatment
 - 💻 Develop **safety-critical systems** where bugs can literally be life-or-death
 - 🌐 Advocate for **open software in healthcare** – because transparency saves lives
@@ -118,6 +119,9 @@ I'm DLane, **Principal System Architect at Elekta**, specializing in radiation o
 - **Radiation Therapy**: Treatment planning, dose optimization, delivery systems
 - **Visualization**: 3D rendering, dose visualization, anatomical modeling
 - **Standards**: DICOM, HL7 FHIR, IEC 62304 (medical device software lifecycle)
+
+### Open Source Contributions
+Active contributor to **[PyMedPhys](https://github.com/pymedphys/pymedphys)** – a community effort to develop an open, object-oriented toolkit for medical physics applications.
 
 ### Let's Collaborate
 I'm passionate about **open-source medical software** and believe the healthcare industry needs more transparency and collaboration. If you're working on:
@@ -143,12 +147,13 @@ I'm passionate about **open-source medical software** and believe the healthcare
 **Principal System Architect @ Elekta**
 
 Architecting radiation treatment planning and delivery systems.
+Contributing to PyMedPhys open-source medical physics project.
 Extensive experience in medical imaging, radiation therapy, and visualization.
 
 > *"Open software is the future."*
 
 - 💬 **Expertise**: Medical imaging • Treatment planning • 3D visualization • DICOM • Safety-critical systems
-- 👯 **Interests**: Open-source medical software • Radiation therapy tools • Healthcare standards
+- 👯 **Interests**: Open-source medical software • PyMedPhys contributor • Radiation therapy tools • Healthcare standards
 - 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/dglane001)
 
 *Code that fights cancer. Software that saves lives.*
